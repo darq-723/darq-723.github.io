@@ -26,7 +26,7 @@ function getInfo(){
     for(i = 0; i < objPeople.length; i++){
         if(username == objPeople[i].username && password == objPeople[i].password){
             console.log(username + " is logged in.")
-            return location.replace("index.html")
+            return location.replace("blog.html")
         }
         else{
             console.log("Incorrect Credentials")

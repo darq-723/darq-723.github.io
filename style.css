@@ -1,0 +1,51 @@
+/* Open Sans Font: */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+:root {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  --text-primary: #b6b6b6;
+  --text-secondary: #ececec;
+  --bg-primary: #101726;
+  --bg-seconday: #141418;
+}
+
+body {
+  color: black;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  font-family: "Century Gothic";
+  color: #2e3d59;
+  font-size: 70px;
+}
+
+p {
+  font-size: 20px;
+}
+
+h2 {
+  color: #101726;
+  font-size: 30px;
+}
+
+body::-webkit-scrollbar {
+  width: 1rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: #2e3d59;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #43d9bd;
+}
+
+main {
+  margin-right: 5rem;
+  margin-left: 5rem;
+  padding: 1rem;
+}

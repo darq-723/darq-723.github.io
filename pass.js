@@ -1,21 +1,9 @@
 // Accounts ko:
 var objPeople = [
 {
-    username: "dragon",
-    password: "deeznuts"
-},
-{
-    username: "Icant",
-    password: "exit_vim" // Seriously, I couldn't exit it in my first try.
-},
-{
-    username: "darq723",
-    password: "samuraicloud123"
-},
-{
     username: "dionarquisola",
-    password: "samplepass"
-}
+    password: "blogpass123"
+},
 ]
 
 // Just like facebook, It gets your info... hahaha pota. ...

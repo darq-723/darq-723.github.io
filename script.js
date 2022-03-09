@@ -3,4 +3,4 @@
 console.log("'Must Read': If you find this, cool. At least the person who found it has browser knowledge.")
 // Logs here:
 
-console.log("GWAPA GWAPA GD KAY BELSSY YA")
+console.log("GWAPA GWAPA GD KAY BLESSY YA")
